@@ -1,0 +1,30 @@
+.container-informacoes-direita{
+
+    position: relative;
+    width: 730px;
+    bottom: 176px;
+    background-color: aqua;
+}
+
+.container-informacoes-esquerda{
+
+    position: relative;
+    display:block;
+    width: 260px;
+}
+
+.links-container-esquerda{
+
+    display: flex;
+    flex-wrap: wrap;
+    padding: 10px
+
+}
+
+.links-container-esquerda:hover{
+
+    background-color: #efefef;
+    font-weight: bold;
+    border-radius: 20px;
+    transition: 0.20s;
+}   
