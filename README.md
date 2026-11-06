@@ -15,7 +15,7 @@ de uma supervisão aprimorada sobre a responsabilidade de tais condições.
 - **Tela de Boas-Vindas:** Apresenta uma apresentação inicial do site e, na parte
 superior, há botões para entrar ou criar uma conta.
 
-<img width="1487" height="742" alt="image" src="https://github.com/user-attachments/assets/640df056-ee4c-40d8-8e11-1501593452e6" />
+<img width="1487" height="742" alt="image" src="Tela Principal.png" />
 
 - **Tela de login/cadastro:**  
 
