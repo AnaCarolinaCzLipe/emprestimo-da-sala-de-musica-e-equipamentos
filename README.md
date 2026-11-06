@@ -1,3 +1,28 @@
+ # TCC Técnico de informática - Empréstimo de equipamentos da sala de música
+
+  O objetivo desse programa é facilitar o empréstimo da sala de música e
+equipamentos disponibilizados. Realizando da seguinte forma, o usuário entrará no
+site com os dados solicitados e fará o seu empréstimo com as informações exigidas
+(nome, e-mail, data, horário e entre outros) e assim o administrador terá a
+possibilidade de gerenciar os empréstimos e confirmar.
+
+  Com isso o projeto contribuirá com a organização dos empréstimos de
+maneira que não fique sobrecarregado para o cliente dessas duas situações, além
+de uma supervisão aprimorada sobre a responsabilidade de tais condições.
+
+ ## Introdução às telas do sistema
+
+- **Tela de Boas-Vindas:** Apresenta uma apresentação inicial do site e, na parte
+superior, há botões para entrar ou criar uma conta.
+
+<img width="1487" height="742" alt="image" src="https://github.com/user-attachments/assets/640df056-ee4c-40d8-8e11-1501593452e6" />
+
+- **Tela de login/cadastro:**  
+
+
+
+
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
